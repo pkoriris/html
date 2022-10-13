@@ -10,6 +10,5 @@ Requirements to install
 link to live site on GitHub Pages
 https://pkoriris.github.io/html/
 
-https://pkoriris.github.io/moringa/Tasks/Moringa/index.html
 copyright and license information
 This project is solely owned by Isaiah Ronoh
